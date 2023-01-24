@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="weight_text">Ingrese el peso en kg</string>
+    <string name="height_text">Introduzca la altura en m</string>
+    <string name="result"></string>
+    <string name="calculate">Calcular</string>
+    <string name="calculate_done">Cálculo hecho</string>
+    <string name="radiobutton_adult">Adulta</string>
+    <string name="radiobutton_teen">Adolescente</string>
+</resources>

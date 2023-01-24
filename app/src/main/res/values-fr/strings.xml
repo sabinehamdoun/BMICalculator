@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculateur d\'IMC</string>
+    <string name="height">Hauteur</string>
+    <string name="weight">Lester</string>
+    <string name="weight_text">Entrez le poids en kg</string>
+    <string name="height_text">Entrez le poids en m</string>
+    <string name="result"></string>
+    <string name="calculate">Calculer</string>
+    <string name="calculate_done">Calcul terminé</string>
+    <string name="radiobutton_adult">Adulte</string>
+    <string name="radiobutton_teen">Adolescent</string>
+</resources>
